@@ -1,3 +1,3 @@
 # Alura-Plus
-## Projeto desenvolvido no Curso HTML e CSS: praticando HTML/CSS. 
+## Projeto desenvolvido no Curso da Alura HTML e CSS: praticando HTML/CSS. 
 ## Professora Mônica Mazzochi Hillman.
