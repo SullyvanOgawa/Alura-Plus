@@ -184,6 +184,12 @@ body{
 
     .rodape__lista{
         display:block;
+        line-height: 1.5;
+    }
+
+    .rodape__texto{
+        font-size: 10px;
+        font-weight: 200;
     }
 
 }
